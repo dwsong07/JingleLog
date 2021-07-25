@@ -1,5 +1,5 @@
 {
     "token": "DISCORD BOT TOKEN",
     "messageLogChannelId": "MESSAGE LOGGING CHANNEL ID",
-    "inviteLogChannelId": "INVITE LOGGING CHANNEL ID"
+    "memberLogChannelId": "INVITE LOGGING CHANNEL ID"
 }

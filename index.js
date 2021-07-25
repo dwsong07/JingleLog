@@ -2,7 +2,7 @@
 
 const { Client } = require("discord.js");
 const messageLogger = require("./messageLogger");
-const inviteLogger = require("./inviteLogger");
+const inviteLogger = require("./memberLogger");
 
 const { token } = require("./config.json");
 
